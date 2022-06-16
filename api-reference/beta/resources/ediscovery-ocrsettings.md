@@ -1,5 +1,5 @@
 ---
-title: ocrSettings resource type
+title: The ocrSettings resource type
 description: Describes the ocrSettings resource type and provides the properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium

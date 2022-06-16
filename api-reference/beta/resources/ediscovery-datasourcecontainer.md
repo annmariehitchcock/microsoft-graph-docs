@@ -1,5 +1,5 @@
 ---
-title: dataSourceContainer resource type
+title: The dataSourceContainer resource type
 description: Describes the dataSourceContainer resource type and provides the methods, properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium

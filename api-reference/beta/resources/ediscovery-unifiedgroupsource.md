@@ -1,5 +1,5 @@
 ---
-title: unifiedGroupSource resource type
+title: The unifiedGroupSource resource type
 description: Describes the unifiedGroupSource resource type and provides the methods, properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium

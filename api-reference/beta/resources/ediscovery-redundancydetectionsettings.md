@@ -1,5 +1,5 @@
 ---
-title: redundancyDetectionSettings resource type
+title: The redundancyDetectionSettings resource type
 description: Describes the redundancyDetectionSettings resource type and provides the properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
