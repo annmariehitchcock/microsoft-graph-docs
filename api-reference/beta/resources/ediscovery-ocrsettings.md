@@ -1,5 +1,5 @@
 ---
-title: "ocrSettings resource type"
+title: ocrSettings resource type
 description: Describes the ocrSettings resource type and provides the properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# ocrSettings resource type
+# The ocrSettings resource type
 
 Namespace: microsoft.graph.ediscovery
 

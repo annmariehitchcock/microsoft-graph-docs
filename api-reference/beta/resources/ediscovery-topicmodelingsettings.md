@@ -1,5 +1,5 @@
 ---
-title: "topicModelingSettings resource type"
+title: topicModelingSettings resource type
 description: Describes the topicModelingSettings resource type and provides the properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# topicModelingSettings resource type
+# The topicModelingSettings resource type
 
 Namespace: microsoft.graph.ediscovery
 

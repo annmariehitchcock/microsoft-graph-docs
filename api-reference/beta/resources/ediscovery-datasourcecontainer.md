@@ -1,5 +1,5 @@
 ---
-title: "dataSourceContainer resource type"
+title: dataSourceContainer resource type
 description: Describes the dataSourceContainer resource type and provides the methods, properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# dataSourceContainer resource type
+# The dataSourceContainer resource type
 
 Namespace: microsoft.graph.ediscovery
 
