@@ -1,6 +1,6 @@
 ---
 title: "reviewSet resource type"
-description: "Represents the static set of electronically stored information collected for use in a litigation, investigation, or regulatory request."
+description: Describes the reviewSet resource type and provides the methods, properties, relationships, and a JSON representation.
 ms.localizationpriority: medium
 author: "mahage-msft"
 ms.prod: "ediscovery"

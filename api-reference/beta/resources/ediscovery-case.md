@@ -1,6 +1,6 @@
 ---
 title: "case resource type"
-description: "In the context of eDiscovery, contains custodians, holds, collections, review sets, and exports."
+description: Describes the case resource type and provides the methods, properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

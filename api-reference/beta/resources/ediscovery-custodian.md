@@ -1,6 +1,6 @@
 ---
 title: "custodian resource type"
-description: "In the context of eDiscovery, represents a user and all of their digital assets, such as email and documents."
+description: Describes the custodian resource type and provides the methods, properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

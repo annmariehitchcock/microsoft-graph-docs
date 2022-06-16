@@ -1,6 +1,6 @@
 ---
 title: "addToReviewSetOperation resource type"
-description: "Adds the results of a sourceCollection to a reviewSet"
+description: Describes the addToReviewSetOperation resource type and provides the methods, properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

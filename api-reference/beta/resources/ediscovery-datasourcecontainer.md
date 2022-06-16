@@ -1,6 +1,6 @@
 ---
 title: "dataSourceContainer resource type"
-description: "Base class for Custodians and Non-Custodial data sources."
+description: Describes the dataSourceContainer resource type and provides the methods, properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

@@ -1,6 +1,6 @@
 ---
 title: "caseExportOperation resource type"
-description: "Represents the process of an eDiscovery export."
+description: Describes the caseExportOperation resource type and provides the methods, properties, relationships, and a JSON representation.
 ms.localizationpriority: medium
 author: "mahage-msft"
 ms.prod: "ediscovery"

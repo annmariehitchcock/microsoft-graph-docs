@@ -1,6 +1,6 @@
 ---
 title: "tag resource type"
-description: "Represents an eDiscovery tag, which is used to mark documents during review to separate responsive and non-responsive content"
+description: Describes the tag resource type and provides the methods, properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
