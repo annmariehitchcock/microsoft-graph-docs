@@ -1,6 +1,6 @@
 ---
 title: "oneNoteIdentitySet resource type"
-description: "**Support coming soon**"
+description: Describes the oneNoteIdentitySet resource type and provides a JSON representation and the properties.
 ms.localizationpriority: medium
 author: "jewan-microsoft"
 ms.prod: "onenote"

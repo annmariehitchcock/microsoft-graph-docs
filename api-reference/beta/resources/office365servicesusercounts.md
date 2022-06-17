@@ -1,6 +1,6 @@
 ---
 title: "office365ServicesUserCounts resource type"
-description: "The following is a JSON representation of the resource."
+description: Describes the office365ServicesUserCounts resource type and provides the properties and a JSON representation.
 ms.localizationpriority: medium
 ms.prod: "reports"
 author: "sarahwxy"
