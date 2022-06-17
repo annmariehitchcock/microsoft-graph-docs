@@ -1,6 +1,6 @@
 ---
 title: "locationConstraintItem resource type"
-description: "The conditions stated by a client for the location of a meeting."
+description: Describes the locationConstraintItem resource type and provides a JSON representation and the properties.
 ms.localizationpriority: medium
 author: "vrod9429"
 ms.prod: "outlook"

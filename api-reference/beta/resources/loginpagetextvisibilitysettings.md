@@ -1,6 +1,6 @@
 ---
 title: "loginPageTextVisibilitySettings resource type"
-description: "Contains details of the organization's branding."
+description: Describes the loginPageTextVisibilitySettings resource type and provides the properties, the relationships, and a JSON representation.
 author: "AlexanderMars"
 ms.localizationpriority: medium
 ms.prod: "identity-and-sign-in"
