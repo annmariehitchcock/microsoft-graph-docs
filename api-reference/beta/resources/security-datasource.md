@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# ediscovery-dataSource resource type
+# ediscovery - dataSource resource type
 
 Namespace: microsoft.graph.security
 
