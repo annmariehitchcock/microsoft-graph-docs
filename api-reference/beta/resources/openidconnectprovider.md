@@ -1,6 +1,6 @@
 ---
 title: "openIdConnectProvider resource type"
-description: Describes the openIdConnectProvider resource type (deprecated) and provides the methods, the properties, and a JSON representation.
+description: Describes the deprecated openIdConnectProvider resource type with its methods, properties, and JSON representation.
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: "identity-and-sign-in"
