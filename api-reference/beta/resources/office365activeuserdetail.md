@@ -1,6 +1,6 @@
 ---
 title: "office365ActiveUserDetail resource type"
-description: Describes the office365ActiveUserDetail resource type and provides the properties and a JSON representation.
+description: Describes the office365ActiveUserDetail resource type with its properties and JSON representation.
 ms.localizationpriority: medium
 ms.prod: "reports"
 author: "sarahwxy"
