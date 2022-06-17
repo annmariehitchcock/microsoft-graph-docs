@@ -1,6 +1,6 @@
 ---
 title: "resourceVisualization resource type"
-description: "Complex type containing properties of Insights."
+description: Describes the resourceVisualization resource type and provides a JSON representation, the properties, the type property values, and the containerType property values.
 author: "simonhult"
 ms.localizationpriority: medium
 ms.prod: "insights"

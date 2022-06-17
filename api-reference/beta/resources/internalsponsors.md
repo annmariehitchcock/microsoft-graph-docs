@@ -1,6 +1,6 @@
 ---
 title: "internalSponsors complex type"
-description: "Identifies a relationship to another user in the tenant who will be allowed as approver."
+description: Describes the internalSponsors complex type and provides the properties and a JSON representation.
 ms.localizationpriority: medium
 author: "markwahl-msft"
 ms.prod: "governance"

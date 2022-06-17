@@ -1,6 +1,6 @@
 ---
 title: "resourceReference resource type"
-description: "Complex type containing properties of Insights."
+description: Describes the resourceReference resource type and provides a JSON representation and the properties.
 author: "simonhult"
 ms.localizationpriority: medium
 ms.prod: "insights"

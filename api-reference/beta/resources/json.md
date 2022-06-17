@@ -1,6 +1,6 @@
 ---
 title: "Json resource type"
-description: "Represents data returned in JSON format"
+description: Describes the Json resource type and provides a JSON representation.
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: workbooks-and-charts

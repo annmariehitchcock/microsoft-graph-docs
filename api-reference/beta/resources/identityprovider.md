@@ -1,6 +1,6 @@
 ---
 title: "identityProvider resource type"
-description: "Represents identity providers in an Azure Active Directory tenant and an Azure AD B2C tenant."
+description: Describes the identityProvider resource type (deprecated) and provides the methods, properties, and a JSON representation.
 ms.localizationpriority: high
 doc_type: resourcePageType
 ms.prod: "identity-and-sign-in"
