@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryAddToReviewSetOperation resource type"
-description: "Adds the results of a sourceCollection to a reviewSet"
+description: Describes the ediscoveryAddToReviewSetOperation resource type with its methods, properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

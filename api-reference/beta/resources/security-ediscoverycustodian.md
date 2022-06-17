@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryCustodian resource type"
-description: "In the context of eDiscovery, represents a user and all of their digital assets, such as email and documents."
+description: Describes the ediscoveryCustodian resource type with its methods, properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

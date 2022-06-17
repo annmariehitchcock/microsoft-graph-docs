@@ -1,6 +1,6 @@
 ---
 title: "provisioningStatusInfo resource type"
-description: "Describes the status of the provisioning summary event."
+Describes the provisioningStatusInfo resource type with its properties and a JSON representation.
 ms.localizationpriority: medium
 author: "ArvindHarinder1"
 ms.prod: "governance"

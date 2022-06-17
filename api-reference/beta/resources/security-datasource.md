@@ -1,6 +1,6 @@
 ---
 title: "dataSource resource type"
-description: "The dataSource entity is an abstract base class used to identify sources of content for eDiscovery."
+description: Describes the dataSource resource type with its methods, properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
