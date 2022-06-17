@@ -1,6 +1,6 @@
 ---
-title: "requestorManager complex type"
-Describes the requestorManager complex type with its properties and a JSON representation.
+title: requestorManager complex type
+description: Describes the requestorManager complex type with its properties and a JSON representation.
 ms.localizationpriority: medium
 author: "markwahl-msft"
 ms.prod: "governance"
