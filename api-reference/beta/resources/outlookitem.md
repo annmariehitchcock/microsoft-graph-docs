@@ -1,6 +1,6 @@
 ---
 title: "outlookItem resource type"
-description: "Here is a JSON representation of the resource"
+description: Describes the orgContact resource type and provides a JSON representation, the properties, and the relationships.
 author: "abheek-das"
 ms.localizationpriority: medium
 ms.prod: "outlook"

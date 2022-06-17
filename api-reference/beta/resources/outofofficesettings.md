@@ -1,6 +1,6 @@
 ---
 title: "outOfOfficeSettings resource type"
-description: "Represents phone access information for an online meeting."
+description: Describes the outOfOfficeSettings resource type and provides the properties and a JSON representation.
 author: "mkhribech"
 ms.localizationpriority: medium
 ms.prod: "cloud-communications"

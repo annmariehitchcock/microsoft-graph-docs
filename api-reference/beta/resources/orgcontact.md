@@ -1,6 +1,6 @@
 ---
 title: "orgContact resource type"
-description: "Here is a JSON representation of the resource"
+description: Describes the orgContact resource type and provides the methods, the properties, the relationships, and a JSON representation.
 ms.localizationpriority: medium
 author: "dkershaw10"
 ms.prod: "identity-and-sign-in"
