@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryExportOperation resource type"
-description: "Represents the process of an eDiscovery export."
+description: Describes the ediscoveryExportOperation resource type with its methods, properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

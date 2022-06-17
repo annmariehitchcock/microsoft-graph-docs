@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryReviewTag resource type"
-description: "Represents an eDiscovery tag, which is used to mark documents during review to separate responsive and non-responsive content"
+description: Describes the ediscoveryReviewTag resource type with its methods, properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
