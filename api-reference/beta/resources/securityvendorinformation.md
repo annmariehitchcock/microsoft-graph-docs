@@ -1,6 +1,6 @@
 ---
 title: "securityVendorInformation resource type"
-description: " > **Important:** APIs under the /beta version in Microsoft Graph are in preview and are subject to change. Use of these APIs in production applications is not supported."
+description: Describes the securityVendorInformation resource type with its properties and a JSON representation.
 ms.localizationpriority: medium
 author: "preetikr"
 ms.prod: "security"

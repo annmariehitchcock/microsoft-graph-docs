@@ -1,6 +1,6 @@
 ---
 title: "unifiedGroupSource resource type"
-description: "The container for a custodian's group."
+description: Describes the unifiedGroupSource resource type with its methods, properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
