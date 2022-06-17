@@ -1,6 +1,6 @@
 ---
 title: "redundancyDetectionSettings resource type"
-description: "Redundancy settings for an eDiscovery case."
+description: Describes the redundancyDetectionSettings resource type with its properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

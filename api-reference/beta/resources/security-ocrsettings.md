@@ -1,6 +1,6 @@
 ---
 title: "ocrSettings resource type"
-description: "OCR settings for an eDiscovery case"
+description: Describes the ocrSettings resource type with its properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

@@ -1,6 +1,6 @@
 ---
 title: "topicModelingSettings resource type"
-description: "Topic modeling settings for an eDiscovery case"
+description: Describes the topicModelingSettings resource type with its properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

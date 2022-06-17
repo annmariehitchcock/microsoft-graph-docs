@@ -1,6 +1,6 @@
 ---
 title: "siteSource resource type"
-description: ""The container for a site associated with a custodian."
+description: Describes the siteSource resource type with its methods, properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
