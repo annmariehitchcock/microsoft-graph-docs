@@ -1,6 +1,6 @@
 ---
-title: "provisioningStatusInfo resource type"
-Describes the provisioningStatusInfo resource type with its properties and a JSON representation.
+title: provisioningStatusInfo resource type
+description: Describes the provisioningStatusInfo resource type with its properties and a JSON representation.
 ms.localizationpriority: medium
 author: "ArvindHarinder1"
 ms.prod: "governance"
