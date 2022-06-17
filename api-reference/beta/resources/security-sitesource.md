@@ -1,5 +1,5 @@
 ---
-title: ediscovery-siteSource resource type
+title: ediscovery - siteSource resource type
 description: Describes the siteSource resource type with its methods, properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# ediscovery-siteSource resource type
+# ediscovery - siteSource resource type
 
 Namespace: microsoft.graph.security
 
