@@ -1,5 +1,5 @@
 ---
-title: "topicModelingSettings resource type"
+title: ediscovery-topicModelingSettings resource type
 description: Describes the topicModelingSettings resource type with its properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# topicModelingSettings resource type
+# ediscovery-topicModelingSettings resource type
 
 Namespace: microsoft.graph.security
 
