@@ -1,5 +1,5 @@
 ---
-title: The dataSource resource type
+title: ediscovery-dataSource resource type
 description: Describes the dataSource resource type and provides the methods, properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# The dataSource resource type
+# ediscovery-dataSource resource type
 
 Namespace: microsoft.graph.ediscovery
 

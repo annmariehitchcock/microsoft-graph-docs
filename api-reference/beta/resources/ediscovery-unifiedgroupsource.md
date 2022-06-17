@@ -1,5 +1,5 @@
 ---
-title: The unifiedGroupSource resource type
+title: ediscovery-unifiedGroupSource resource type
 description: Describes the unifiedGroupSource resource type and provides the methods, properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# The unifiedGroupSource resource type
+# ediscovery-unifiedGroupSource resource type
 
 Namespace: microsoft.graph.ediscovery
 

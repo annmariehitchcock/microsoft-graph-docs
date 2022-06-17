@@ -1,5 +1,5 @@
 ---
-title: The redundancyDetectionSettings resource type
+title: ediscovery-redundancyDetectionSettings resource type
 description: Describes the redundancyDetectionSettings resource type and provides the properties, relationships, and a JSON representation.
 author: "mahage-msft"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# The redundancyDetectionSettings resource type
+# ediscovery-redundancyDetectionSettings resource type
 
 Namespace: microsoft.graph.ediscovery
 
