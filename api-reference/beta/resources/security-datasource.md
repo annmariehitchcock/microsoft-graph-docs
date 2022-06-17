@@ -1,5 +1,5 @@
 ---
-title: ediscovery-dataSource resource type
+title: ediscovery - dataSource resource type
 description: Describes the dataSource resource type with its methods, properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium

@@ -1,5 +1,5 @@
 ---
-title: ediscovery-dataSourceContainer resource type
+title: ediscovery - dataSourceContainer resource type
 description: Describes the dataSourceContainer resource type with its methods, properties, relationships, and a JSON representation.
 author: "SeunginLyu"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# ediscovery-dataSourceContainer resource type
+# ediscovery - dataSourceContainer resource type
 
 Namespace: microsoft.graph.security
 
