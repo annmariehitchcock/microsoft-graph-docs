@@ -1,6 +1,6 @@
 ---
 title: "openIdConnectIdentityProvider resource type"
-description: Describes the openIdConnectIdentityProvider resource type and provides the methods, the properties, and a JSON representation.
+description: Represents OpenID Connect identity providers in an Azure Active Directory (Azure AD) B2C tenant.
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: "identity-and-sign-in"
