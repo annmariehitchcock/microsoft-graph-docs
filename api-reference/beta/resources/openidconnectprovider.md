@@ -1,6 +1,6 @@
 ---
 title: "openIdConnectProvider resource type"
-description: Describes the deprecated openIdConnectProvider resource type with its methods, properties, and JSON representation.
+description: Represents OpenID Connect identity providers in an Azure Active Directory B2C tenant.
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: "identity-and-sign-in"
