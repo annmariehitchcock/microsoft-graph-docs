@@ -1,6 +1,6 @@
 ---
 title: "orgContact resource type"
-description: Describes the orgContact resource type and provides the methods, the properties, the relationships, and a JSON representation.
+description: Learn about how to use the Microsoft Graph orgContact resource type to create organizational contacts.
 ms.localizationpriority: medium
 author: "dkershaw10"
 ms.prod: "identity-and-sign-in"

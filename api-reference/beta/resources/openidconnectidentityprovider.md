@@ -1,6 +1,6 @@
 ---
 title: "openIdConnectIdentityProvider resource type"
-description: Describes the openIdConnectIdentityProvider resource type and provides the methods, the properties, and a JSON representation.
+description: Learn about how to use the Microsoft Graph openIdConnectIdentityProvider resource type to securely sign in a user to an application.
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: "identity-and-sign-in"

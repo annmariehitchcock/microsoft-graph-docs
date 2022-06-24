@@ -1,6 +1,6 @@
 ---
 title: "oneNoteIdentitySet resource type"
-description: Describes the oneNoteIdentitySet resource type and provides a JSON representation and the properties.
+description: Learn about how the Microsoft Graph oneNoteIdentitySet resource type is used to represent a set of identities associated with various events.
 ms.localizationpriority: medium
 author: "jewan-microsoft"
 ms.prod: "onenote"

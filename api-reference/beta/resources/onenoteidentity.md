@@ -1,6 +1,6 @@
 ---
 title: "oneNoteIdentity resource type"
-description: Describes the oneNoteIdentity resource type and provides a JSON representation and the properties.
+description: Learn about how the Microsoft Graph oneNoteIdentity resource type represents an identity of a user.
 ms.localizationpriority: medium
 author: "jewan-microsoft"
 ms.prod: "onenote"

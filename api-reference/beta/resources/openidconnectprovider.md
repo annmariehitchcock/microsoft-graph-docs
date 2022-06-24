@@ -1,6 +1,6 @@
 ---
 title: "openIdConnectProvider resource type"
-description: Describes the openIdConnectProvider resource type (deprecated) and provides the methods, the properties, and a JSON representation.
+description: Learn about how to use the Microsoft Graph openIdConnectProvider resource type (deprecated) enabling users to sign in to an application using their custom identity provider.
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: "identity-and-sign-in"

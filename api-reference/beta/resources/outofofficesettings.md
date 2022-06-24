@@ -1,6 +1,6 @@
 ---
 title: "outOfOfficeSettings resource type"
-description: Describes the outOfOfficeSettings resource type and provides the properties and a JSON representation.
+description: Learn about how to use the Microsoft Graph outOfOfficeSettings resource type to represent the presence of a user.
 author: "mkhribech"
 ms.localizationpriority: medium
 ms.prod: "cloud-communications"

@@ -1,6 +1,6 @@
 ---
 title: "office365GroupsActivityDetail resource type"
-description: Describes the office365GroupsActivityDetail resource type and provides the properties and a JSON representation.
+description: Describes the properties found in the Microsoft Graph office365GroupsActivityDetail resource type for Office 365.
 ms.localizationpriority: medium
 ms.prod: "reports"
 author: "sarahwxy"

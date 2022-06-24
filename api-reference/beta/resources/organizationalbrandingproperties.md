@@ -1,6 +1,6 @@
 ---
 title: "organizationalBrandingProperties resource type"
-description: Describes the organizationalBrandingProperties resource type and provides the methods, the properties, the relationships, and a JSON representation.
+description: Learn about how to use the Microsoft Graph organizationalBrandingProperties resource type to customize your Azure Active Directory (Azure AD) sign-in pages.
 author: "AlexanderMars"
 ms.localizationpriority: medium
 ms.prod: "identity-and-sign-in"
