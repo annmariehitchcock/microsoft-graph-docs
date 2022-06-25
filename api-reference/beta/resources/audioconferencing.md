@@ -1,6 +1,6 @@
 ---
 title: "audioConferencing resource type"
-description: Describes the audioConferencing resource type and provides the properties and a JSON representation.
+description: Learn about how the Microsoft Graph audioConferencing resource type represents phone access information for an onlineMeeting.
 author: "mkhribech"
 ms.localizationpriority: medium
 ms.prod: "cloud-communications"

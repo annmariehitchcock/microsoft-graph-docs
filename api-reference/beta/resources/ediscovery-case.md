@@ -1,6 +1,6 @@
 ---
 title: "case resource type"
-description: Describes the case resource type and provides the methods, properties, relationships, and a JSON representation.
+description: Describes the methods and properties found in the Microsoft Graph case resource type in the context of eDiscovery.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

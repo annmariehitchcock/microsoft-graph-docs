@@ -1,6 +1,6 @@
 ---
 title: "addToReviewSetOperation resource type"
-description: Describes the addToReviewSetOperation resource type and provides the methods, properties, relationships, and a JSON representation.
+description: Learn about how the Microsoft Graph addToReviewSetOperation resource type represents an operation to add a sourceCollection to a reviewSet.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

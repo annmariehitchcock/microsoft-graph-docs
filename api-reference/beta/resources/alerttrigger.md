@@ -1,6 +1,6 @@
 ---
 title: "alertTrigger resource type"
-description: Describes the alertTrigger resource type and provides the properties, a JSON representation, and an example.
+description: Review the Microsoft Graph alertTrigger resource type containing information about the attribute(s) that triggered a detection.
 ms.localizationpriority: medium
 author: "preetikr"
 ms.prod: "security"

@@ -1,6 +1,6 @@
 ---
 title: "caseExportOperation resource type"
-description: Describes the caseExportOperation resource type and provides the methods, properties, relationships, and a JSON representation.
+description: Learn about how the Microsoft Graph caseExportOperation resource type represents the process of an eDiscovery export.
 ms.localizationpriority: medium
 author: "mahage-msft"
 ms.prod: "ediscovery"

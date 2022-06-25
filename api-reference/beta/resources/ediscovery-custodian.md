@@ -1,6 +1,6 @@
 ---
 title: "custodian resource type"
-description: Describes the custodian resource type and provides the methods, properties, relationships, and a JSON representation.
+description: Learn about how the Microsoft Graph eDiscovery custodian resource type represents a user and all of their digital assets, such as email and documents.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
