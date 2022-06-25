@@ -1,6 +1,6 @@
 ---
 title: ediscovery-ocrSettings resource type
-description: Describes the ocrSettings resource type and provides the properties, relationships, and a JSON representation.
+description: Learn about the Microsoft Graph ediscovery-ocrSettings resource type (Optical Character Recognition) settings for the eDiscovery case.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

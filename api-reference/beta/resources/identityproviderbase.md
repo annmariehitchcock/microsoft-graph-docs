@@ -1,6 +1,6 @@
 ---
 title: "identityProviderBase resource type"
-description: Describes the identityProviderBase resource type and provides the methods, properties, and a JSON representation.
+description: Learn about how to use the Microsoft Graph identityProviderBase resource type to configure an identity provider in the Azure AD B2C directory.
 ms.localizationpriority: high
 doc_type: resourcePageType
 ms.prod: "identity-and-sign-in"

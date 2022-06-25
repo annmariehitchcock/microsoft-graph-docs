@@ -1,6 +1,6 @@
 ---
 title: "hostSecurityState resource type"
-description: Describes the hostSecurityState resource type and provides the properties and a JSON representation.
+description: Learn about the Microsoft Graph hostSecurityState resource type which contains stateful information about the host.
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: security

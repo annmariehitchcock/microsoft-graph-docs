@@ -1,6 +1,6 @@
 ---
 title: "office365ActiveUserCounts resource type"
-description: Describes the office365ActiveUserCounts resource type and provides the properties and a JSON representation.
+description: Learn about the Microsoft Graph office365ActiveUserCounts resource type for Office 365.
 ms.localizationpriority: medium
 ms.prod: "reports"
 author: "sarahwxy"

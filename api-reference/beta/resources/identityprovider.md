@@ -1,6 +1,6 @@
 ---
 title: "identityProvider resource type"
-description: Describes the identityProvider resource type (deprecated) and provides the methods, properties, and a JSON representation.
+description: Learn about how to use the Microsoft Graph identityProvider resource type (deprecated) to configure an identity provider in the Azure AD B2C tenant.
 ms.localizationpriority: high
 doc_type: resourcePageType
 ms.prod: "identity-and-sign-in"

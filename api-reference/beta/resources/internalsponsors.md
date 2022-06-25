@@ -1,6 +1,6 @@
 ---
 title: "internalSponsors complex type"
-description: Describes the internalSponsors complex type and provides the properties and a JSON representation.
+description: Learn about how the Microsoft Graph internalSponsors complex type is used in the approval stage of an access package assignment policy.
 ms.localizationpriority: medium
 author: "markwahl-msft"
 ms.prod: "governance"

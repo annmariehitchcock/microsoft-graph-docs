@@ -1,6 +1,6 @@
 ---
 title: "Json resource type"
-description: Describes the Json resource type and provides a JSON representation.
+description: Learn about using the Microsoft Graph Json resource type as an open standard data-interchange format.
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: workbooks-and-charts

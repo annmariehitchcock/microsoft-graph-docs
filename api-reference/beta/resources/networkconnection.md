@@ -1,6 +1,6 @@
 ---
 title: "networkConnection resource type"
-description: Describes the networkConnection resource type and provides the properties and a JSON representation.
+description: Learn about the Microsoft Graph networkConnection resource type containing stateful information about the network connection related to the alert.
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: cloud-pc

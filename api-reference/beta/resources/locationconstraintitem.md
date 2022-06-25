@@ -1,6 +1,6 @@
 ---
 title: "locationConstraintItem resource type"
-description: Describes the locationConstraintItem resource type and provides a JSON representation and the properties.
+description: Learn about the Microsoft Graph locationConstraintItem resource type containing conditions stated by a client for the location of a meeting.
 ms.localizationpriority: medium
 author: "vrod9429"
 ms.prod: "outlook"

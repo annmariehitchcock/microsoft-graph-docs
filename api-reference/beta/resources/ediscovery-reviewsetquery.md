@@ -1,6 +1,6 @@
 ---
 title: "reviewSetQuery resource type"
-description: Describes the reviewSetQuery resource type and provides the methods, properties, relationships, and a JSON representation.
+description: Learn about how the Microsoft Graph reviewSetQuery resource type represents a review set query used to query and cull data stored in an eDiscovery reviewSet.
 ms.localizationpriority: medium
 author: "mahage-msft"
 ms.prod: "ediscovery"

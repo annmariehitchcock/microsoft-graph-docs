@@ -1,6 +1,6 @@
 ---
 title: ediscovery-topicModelingSettings resource type
-description: Describes the topicModelingSettings resource type and provides the properties, relationships, and a JSON representation.
+description: Learn about how to use the Microsoft Graph ediscovery-topicModelingSettings resource type for an eDiscovery case. 
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

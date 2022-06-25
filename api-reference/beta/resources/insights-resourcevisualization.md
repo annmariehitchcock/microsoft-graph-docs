@@ -1,6 +1,6 @@
 ---
 title: "resourceVisualization resource type"
-description: Describes the resourceVisualization resource type and provides a JSON representation, the properties, the type property values, and the containerType property values.
+description: Learn about the Microsoft Graph resourceVisualization resource type containing properties of itemInsights.
 author: "simonhult"
 ms.localizationpriority: medium
 ms.prod: "insights"

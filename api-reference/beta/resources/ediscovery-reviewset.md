@@ -1,6 +1,6 @@
 ---
 title: "reviewSet resource type"
-description: Describes the reviewSet resource type and provides the methods, properties, relationships, and a JSON representation.
+description: Learn about how the Microsoft Graph reviewSet resource type represents a static set of electronically stored information collected for use in a litigation, investigation, or regulatory request.
 ms.localizationpriority: medium
 author: "mahage-msft"
 ms.prod: "ediscovery"

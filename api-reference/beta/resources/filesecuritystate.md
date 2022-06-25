@@ -1,6 +1,6 @@
 ---
 title: "fileSecurityState resource type"
-description: Describes the fileSecurityState resource type and provides the properties and a JSON representation.
+description: Learn about the Microsoft Graph fileSecurityState resource type which contains information about the file related to the alert.
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: security

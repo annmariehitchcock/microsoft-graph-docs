@@ -1,6 +1,6 @@
 ---
 title: ediscovery-dataSourceContainer resource type
-description: Describes the dataSourceContainer resource type and provides the methods, properties, relationships, and a JSON representation.
+description: Learn about how the Microsoft Graph ediscovery-dataSourceContainer resource type is a base class for custodian and noncustodialDataSource resource types.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

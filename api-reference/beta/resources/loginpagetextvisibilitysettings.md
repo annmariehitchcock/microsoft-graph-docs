@@ -1,6 +1,6 @@
 ---
 title: "loginPageTextVisibilitySettings resource type"
-description: Describes the loginPageTextVisibilitySettings resource type and provides the properties, the relationships, and a JSON representation.
+description: Learn about the Microsoft Graph loginPageTextVisibilitySettings resource type representing the various texts that can be hidden on the sign-in page for a tenant.
 author: "AlexanderMars"
 ms.localizationpriority: medium
 ms.prod: "identity-and-sign-in"

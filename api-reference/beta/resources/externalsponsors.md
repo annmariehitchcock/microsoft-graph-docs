@@ -1,6 +1,6 @@
 ---
 title: "externalSponsors complex type"
-description: Describes the externalSponsors complex type and provides the properties and a JSON representation.
+description: Learn about how the Microsoft Graph externalSponsors complex type is used in the approval stage of an access package assignment policy.
 ms.localizationpriority: medium
 author: "markwahl-msft"
 ms.prod: "governance"

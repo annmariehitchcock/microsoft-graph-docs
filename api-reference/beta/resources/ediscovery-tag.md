@@ -1,6 +1,6 @@
 ---
 title: "tag resource type"
-description: Describes the tag resource type and provides the methods, properties, relationships, and a JSON representation.
+description: Learn about how the Microsoft Graph tag resource type represents an eDiscovery tag, which is used to mark documents during review to separate responsive and non-responsive content.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

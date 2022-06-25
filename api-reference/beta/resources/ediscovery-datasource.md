@@ -1,6 +1,6 @@
 ---
 title: ediscovery-dataSource resource type
-description: Describes the dataSource resource type and provides the methods, properties, relationships, and a JSON representation.
+description: Learn about how the Microsoft Graph ediscovery-dataSource resource type is an abstract base class used to identify sources of content for eDiscovery.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

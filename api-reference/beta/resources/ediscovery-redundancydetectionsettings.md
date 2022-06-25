@@ -1,6 +1,6 @@
 ---
 title: ediscovery-redundancyDetectionSettings resource type
-description: Describes the redundancyDetectionSettings resource type and provides the properties, relationships, and a JSON representation.
+description: Learn about the ediscovery-redundancyDetectionSettings resource type for an eDiscovery case.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
