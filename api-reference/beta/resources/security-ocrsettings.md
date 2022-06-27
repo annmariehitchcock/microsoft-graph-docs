@@ -1,13 +1,18 @@
 ---
+<<<<<<< HEAD
 title: ocrSettings resource type
 description: Learn about the ocrSettings resource type (Optical Character Recognition) settings for the eDiscovery case.
+=======
+title: ediscovery - ocrSettings resource type
+description: Learn about the ediscovery - ocrSettings resource type (Optical Character Recognition) settings for the eDiscovery case.
+>>>>>>> f75cc5ce415889a369cf6b35348a1c10ba3780aa
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# ocrSettings resource type
+# ediscovery - ocrSettings resource type
 
 Namespace: microsoft.graph.security
 

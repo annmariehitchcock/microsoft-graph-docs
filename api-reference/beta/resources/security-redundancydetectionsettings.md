@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: redundancyDetectionSettings resource type
+=======
+title: ediscovery - redundancyDetectionSettings resource type
+>>>>>>> f75cc5ce415889a369cf6b35348a1c10ba3780aa
 description: Learn about the redundancyDetectionSettings resource type settings for an eDiscovery case.
 author: "SeunginLyu"
 ms.localizationpriority: medium
@@ -7,7 +11,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# redundancyDetectionSettings resource type
+# ediscovery - redundancyDetectionSettings resource type
 
 Namespace: microsoft.graph.security
 
