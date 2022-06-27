@@ -1,5 +1,5 @@
 ---
-title: ediscovery - dataSource resource type
+title: dataSource resource type
 description: Learn about how the ediscovery - dataSource resource type is used to identify sources of content for eDiscovery.
 author: "SeunginLyu"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# ediscovery - dataSource resource type
+# dataSource resource type
 
 Namespace: microsoft.graph.security
 

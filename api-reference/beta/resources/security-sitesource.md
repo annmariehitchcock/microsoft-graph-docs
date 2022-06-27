@@ -1,13 +1,13 @@
 ---
-title: ediscovery - siteSource resource type
-description: Learn about the ediscovery - siteSource resource type container for a site associated with a custodian.
+title: siteSource resource type
+description: Learn about the siteSource resource type container for a site associated with a custodian.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# ediscovery - siteSource resource type
+# siteSource resource type
 
 Namespace: microsoft.graph.security
 

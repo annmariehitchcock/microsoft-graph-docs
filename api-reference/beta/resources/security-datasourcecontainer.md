@@ -1,5 +1,5 @@
 ---
-title: ediscovery - dataSourceContainer resource type
+title: dataSourceContainer resource type
 description: Learn about how the ediscovery - dataSourceContainer resource type is a base class for Custodians and Non-Custodial data sources.
 author: "SeunginLyu"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# ediscovery - dataSourceContainer resource type
+# dataSourceContainer resource type
 
 Namespace: microsoft.graph.security
 
