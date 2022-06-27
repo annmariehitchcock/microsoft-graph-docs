@@ -1,6 +1,6 @@
 ---
 title: topicModelingSettings resource type
-description: Learn about the ediscovery - topicModelingSettings resource type for an eDiscovery case.
+description: Learn about the topicModelingSettings resource type for an eDiscovery case.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

@@ -1,6 +1,6 @@
 ---
 title: unifiedGroupSource resource type
-description: Learn about the ediscovery - unifiedGroupSource resource type container for a custodian's group.
+description: Learn about the unifiedGroupSource resource type container for a custodian's group.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
