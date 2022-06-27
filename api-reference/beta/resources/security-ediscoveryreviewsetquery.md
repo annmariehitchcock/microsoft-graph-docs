@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryReviewSetQuery resource type"
-description: Describes the ediscoveryReviewSetQuery resource type with its methods, properties, relationships, and a JSON representation.
+description: Learn about how the ediscoveryReviewSetQuery resource type is used to query and cull data stored in an eDiscovery reviewSet.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

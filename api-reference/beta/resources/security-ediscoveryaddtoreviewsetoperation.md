@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryAddToReviewSetOperation resource type"
-description: Describes the ediscoveryAddToReviewSetOperation resource type with its methods, properties, relationships, and a JSON representation.
+description: Learn about how the ediscoveryAddToReviewSetOperation resource type represents an operation to add a eDiscoverySearch to a eDiscoveryReviewSet.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

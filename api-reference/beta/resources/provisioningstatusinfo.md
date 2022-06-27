@@ -1,6 +1,6 @@
 ---
 title: provisioningStatusInfo resource type
-description: Describes the provisioningStatusInfo resource type with its properties and a JSON representation.
+description: Learn about how the provisioningStatusInfo resource type describes the status of the provisioning summary event.
 ms.localizationpriority: medium
 author: "ArvindHarinder1"
 ms.prod: "governance"

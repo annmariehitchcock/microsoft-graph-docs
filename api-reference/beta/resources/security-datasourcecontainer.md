@@ -1,6 +1,6 @@
 ---
 title: ediscovery - dataSourceContainer resource type
-description: Describes the dataSourceContainer resource type with its methods, properties, relationships, and a JSON representation.
+description: Learn about how the ediscovery - dataSourceContainer resource type is a base class for Custodians and Non-Custodial data sources.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

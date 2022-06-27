@@ -1,6 +1,6 @@
 ---
 title: "statusDetails resource type"
-description: Describes the deprecated statusDetails resource type with its properties and a JSON representation.
+description: Learn about how the statusDetails resource type (deprecated) describes the status of the provisioning event and the associated errors.
 ms.localizationpriority: medium
 author: "ArvindHarinder1"
 ms.prod: "identity-and-access-reports"
