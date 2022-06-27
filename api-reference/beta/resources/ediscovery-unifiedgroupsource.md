@@ -1,5 +1,5 @@
 ---
-title: ediscovery-unifiedGroupSource resource type
+title: unifiedGroupSource resource type
 description: Learn about how the Microsoft Graph ediscovery-unifiedGroupSource resource type serves as a container for a custodian's group.
 author: "mahage-msft"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# ediscovery-unifiedGroupSource resource type
+# unifiedGroupSource resource type
 
 Namespace: microsoft.graph.ediscovery
 
