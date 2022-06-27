@@ -1,5 +1,5 @@
 ---
-title: dataSourceContainer resource type
+title: "dataSourceContainer resource type"
 description: Learn about how the Microsoft Graph ediscovery-dataSourceContainer resource type is a base class for custodian and noncustodialDataSource resource types.
 author: "mahage-msft"
 ms.localizationpriority: medium

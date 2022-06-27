@@ -1,5 +1,5 @@
 ---
-title: redundancyDetectionSettings resource type
+title: "redundancyDetectionSettings resource type"
 description: Learn about the ediscovery-redundancyDetectionSettings resource type for an eDiscovery case.
 author: "mahage-msft"
 ms.localizationpriority: medium

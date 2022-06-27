@@ -1,5 +1,5 @@
 ---
-title: topicModelingSettings resource type
+title: "topicModelingSettings resource type"
 description: Learn about how to use the Microsoft Graph ediscovery-topicModelingSettings resource type for an eDiscovery case. 
 author: "mahage-msft"
 ms.localizationpriority: medium
