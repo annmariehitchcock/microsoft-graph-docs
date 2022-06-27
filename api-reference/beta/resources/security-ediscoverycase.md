@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryCase resource type"
-description: Describes the ediscoveryCase resource type with its methods, properties, relationships, and a JSON representation.
+description: Learn about how the ediscoveryCase resource type contains custodians, holds, searches, review sets, and exports.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

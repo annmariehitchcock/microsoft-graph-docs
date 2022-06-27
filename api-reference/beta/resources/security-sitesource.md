@@ -1,6 +1,6 @@
 ---
 title: ediscovery - siteSource resource type
-description: Describes the siteSource resource type with its methods, properties, relationships, and a JSON representation.
+description: Learn about the ediscovery - siteSource resource type container for a site associated with a custodian.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

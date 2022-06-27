@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryReviewSet resource type"
-description: Describes the ediscoveryReviewSet resource type with its methods, properties, relationships, and a JSON representation.
+description: Learn about how the ediscoveryReviewSet resource type represents a static set of electronically stored information collected for use in a litigation, investigation, or regulatory request.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

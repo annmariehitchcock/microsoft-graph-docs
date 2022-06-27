@@ -1,6 +1,6 @@
 ---
 title: requestorManager complex type
-description: Describes the requestorManager complex type with its properties and a JSON representation.
+description: Learn about how the requestorManager complex type is used in the approval settings of an access package assignment policy.
 ms.localizationpriority: medium
 author: "markwahl-msft"
 ms.prod: "governance"

@@ -1,6 +1,6 @@
 ---
 title: provisioningErrorInfo resource type
-description: Describes the provisioningErrorInfo resource type with its properties and a JSON representation.
+description: Learn about how the provisioningErrorInfo resource type describes the status of the provisioning event and the associated errors.
 ms.localizationpriority: medium
 author: "ArvindHarinder1"
 ms.prod: "identity-and-access-reports"

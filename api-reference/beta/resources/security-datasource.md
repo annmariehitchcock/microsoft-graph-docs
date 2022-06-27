@@ -1,6 +1,6 @@
 ---
 title: ediscovery - dataSource resource type
-description: Describes the dataSource resource type with its methods, properties, relationships, and a JSON representation.
+description: Learn about how the ediscovery - dataSource resource type is used to identify sources of content for eDiscovery.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

@@ -1,6 +1,6 @@
 ---
 title: "statusBase resource type"
-description: Describes the deprecated statusBase resource type with its properties and a JSON representation.
+description: Learn about how the statusBase resource type (deprecated) describes the status of the provisioning summary event.
 ms.localizationpriority: medium
 author: "ArvindHarinder1"
 ms.prod: "identity-and-access-reports"

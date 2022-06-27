@@ -1,6 +1,6 @@
 ---
 title: "securityVendorInformation resource type"
-description: Describes the securityVendorInformation resource type with its properties and a JSON representation.
+description: Learn about the securityVendorInformation resource type containing details about the security product/service vendor, provider, and subprovider.
 ms.localizationpriority: medium
 author: "preetikr"
 ms.prod: "security"

@@ -1,13 +1,13 @@
 ---
-title: ediscovery - unifiedGroupSource resource type
-description: Describes the unifiedGroupSource resource type with its methods, properties, relationships, and a JSON representation.
+title: unifiedGroupSource resource type
+description: Learn about the ediscovery - unifiedGroupSource resource type container for a custodian's group.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
 doc_type: resourcePageType
 ---
 
-# ediscovery - unifiedGroupSource resource type
+# unifiedGroupSource resource type
 
 Namespace: microsoft.graph.security
 

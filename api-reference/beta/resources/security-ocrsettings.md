@@ -1,6 +1,6 @@
 ---
 title: ediscovery - ocrSettings resource type
-description: Describes the ocrSettings resource type with its properties, relationships, and a JSON representation.
+description: Learn about the ediscovery - ocrSettings resource type (Optical Character Recognition) settings for the eDiscovery case.
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
