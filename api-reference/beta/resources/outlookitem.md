@@ -1,6 +1,6 @@
 ---
 title: "outlookItem resource type"
-description: Describes the properties found in the Microsoft Graph outlookItem resource type.
+description: "Here is a JSON representation of the resource"
 author: "abheek-das"
 ms.localizationpriority: medium
 ms.prod: "outlook"

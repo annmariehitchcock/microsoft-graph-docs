@@ -1,6 +1,6 @@
 ---
 title: "office365GroupsActivityStorage resource type"
-description: Describes the properties found in the Microsoft Graph office365GroupsActivityStorage resource type for Office 365.
+description: "The following is a JSON representation of the resource."
 ms.localizationpriority: medium
 ms.prod: "reports"
 author: "sarahwxy"

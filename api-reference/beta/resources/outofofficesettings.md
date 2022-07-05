@@ -1,6 +1,6 @@
 ---
 title: "outOfOfficeSettings resource type"
-description: Learn about how to use the Microsoft Graph outOfOfficeSettings resource type to represent the presence of a user.
+description: "Represents phone access information for an online meeting."
 author: "mkhribech"
 ms.localizationpriority: medium
 ms.prod: "cloud-communications"

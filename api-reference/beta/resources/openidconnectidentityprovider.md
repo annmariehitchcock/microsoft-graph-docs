@@ -1,6 +1,6 @@
 ---
 title: "openIdConnectIdentityProvider resource type"
-description: Learn about how to use the Microsoft Graph openIdConnectIdentityProvider resource type to securely sign in a user to an application.
+description: "Represents OpenIDConnect identity providers in an Azure Active Directory B2C tenant."
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: "identity-and-sign-in"

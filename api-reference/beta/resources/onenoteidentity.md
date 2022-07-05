@@ -1,6 +1,6 @@
 ---
 title: "oneNoteIdentity resource type"
-description: Learn about how the Microsoft Graph oneNoteIdentity resource type represents an identity of a user.
+description: "**Support coming soon**"
 ms.localizationpriority: medium
 author: "jewan-microsoft"
 ms.prod: "onenote"

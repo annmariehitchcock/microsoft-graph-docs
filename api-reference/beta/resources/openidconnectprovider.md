@@ -1,6 +1,6 @@
 ---
 title: "openIdConnectProvider resource type"
-description: Learn about how to use the Microsoft Graph openIdConnectProvider resource type (deprecated) enabling users to sign in to an application using their custom identity provider.
+description: "Represents OpenIDConnect identity providers in an Azure Active Directory B2C tenant."
 ms.localizationpriority: medium
 doc_type: resourcePageType
 ms.prod: "identity-and-sign-in"

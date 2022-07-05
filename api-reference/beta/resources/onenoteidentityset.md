@@ -1,6 +1,6 @@
 ---
 title: "oneNoteIdentitySet resource type"
-description: Learn about how the Microsoft Graph oneNoteIdentitySet resource type is used to represent a set of identities associated with various events.
+description: "**Support coming soon**"
 ms.localizationpriority: medium
 author: "jewan-microsoft"
 ms.prod: "onenote"
